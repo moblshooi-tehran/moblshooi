@@ -1,4 +1,4 @@
-const ADMIN_PASSWORD = 'admin123';
+const ADMIN_PASSWORD = 'alireza1378';
 
 document.getElementById('loginForm').addEventListener('submit', function(e) {
     e.preventDefault();
